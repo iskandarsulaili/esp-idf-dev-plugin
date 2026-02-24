@@ -1,0 +1,8 @@
+{
+  "name": "esp-idf-dev",
+  "version": "1.0.0",
+  "description": "ESP-IDF firmware development skill for ESP32 microcontrollers (v5.4/5.5)",
+  "author": {
+    "name": "Jack"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "esp-idf-dev-plugin",
+  "description": "Claude Code plugin for ESP-IDF v5.4/5.5 firmware development",
+  "owner": {
+    "name": "dropbop"
+  },
+  "plugins": [
+    {
+      "name": "esp-idf-dev",
+      "description": "ESP-IDF firmware development skill for ESP32 microcontrollers (v5.4/5.5)",
+      "version": "1.0.0",
+      "author": {
+        "name": "dropbop"
+      },
+      "source": ".",
+      "category": "development"
+    }
+  ]
+}
