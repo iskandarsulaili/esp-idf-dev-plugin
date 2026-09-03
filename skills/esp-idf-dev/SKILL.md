@@ -177,3 +177,4 @@ For detailed API patterns and code examples, consult these reference files:
 - **[references/project-structure.md](references/project-structure.md)** — CMakeLists.txt templates, multi-component project layout, partition tables, OTA setup, managed components via idf_component.yml
 
 Read the appropriate reference file when you need specific driver initialization code or project configuration details.
+# auto-push test
